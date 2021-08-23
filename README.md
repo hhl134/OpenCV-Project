@@ -1,5 +1,5 @@
 # OpenCV-Project
-## python_practice
+## Python_Practice
   practice：
   
     1.灰度化、模糊、Canny算子、膨胀、腐蚀 
@@ -26,3 +26,10 @@
     
     3.对文件进行获取轮廓并进行透视变换
     
+## Some_Project
+    1.虚拟键盘
+      创建图形化键盘，且识别手部关键点，通过手指位置实现按键控制
+      主要库：cvzone（提供手部追踪检测器）、pynput（控制、监控键盘鼠标）
+      
+    2.角度测量
+      点击获取三个点，运用公式计算得到角度并标注
